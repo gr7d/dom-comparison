@@ -1,7 +1,7 @@
 /*
 [
     {
-        steps: [0, 0, 1], -> Steps from the body element to get the matching element that needs to be updated to reflect the changes
+        steps: [0, 0, 1], -> Steps from the body element to get the matching element that needs to be updated in the old document to reflect the new changes
                              <body>
                                  <div> -> 0
                                      <div> -> 0
